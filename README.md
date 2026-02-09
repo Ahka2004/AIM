@@ -1,5 +1,5 @@
 # AIM. Выпуск весной 2026
-![]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/Ahka2004/AIM/blob/main/vlcsnap-2026-02-09-23h11m39s823.jpg))
+![ ]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/Ahka2004/AIM/blob/main/vlcsnap-2026-02-09-23h11m39s823.jpg))
 
 Achaeological inventory maker. Новый инструмент исследователя, не требовательный к пользователю, учитывающий специфику работы с табличными археологическими данными.
 https://rutube.ru/video/ab28f1f0989722024288f736301e2a2e/

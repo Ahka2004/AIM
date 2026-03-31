@@ -1,7 +1,5 @@
 # AIM. Выпуск весной 2026
-![1](https://github.com/Ahka2004/AIM/1.jpg)
-
-
+![Image alt](https://github.com/Ahka2004/AIM/raw/main/1.jpg)
 Archaeological inventory maker. Новый инструмент исследователя, не требовательный к пользователю, учитывающий специфику работы с табличными археологическими данными.
 
 https://vk.com/club236060907

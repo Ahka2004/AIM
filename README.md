@@ -1,7 +1,7 @@
 # AIM. Выпуск весной 2026
-![ ](https://github.com/Ahka2004/AIM/blob/main/vlcsnap-2026-02-09-23h11m39s823.jpg)
-
+![ ](https://github.com/Ahka2004/AIM/blob/v02 фон + лого + надпись ENG + стикер поверх.jpg)
 Archaeological inventory maker. Новый инструмент исследователя, не требовательный к пользователю, учитывающий специфику работы с табличными археологическими данными.
+
 https://vk.com/club236060907
 https://t.me/AIMArcheo
 https://rutube.ru/video/ab28f1f0989722024288f736301e2a2e/

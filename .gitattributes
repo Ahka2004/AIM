@@ -1,2 +1,5 @@
+/AIM
+
+.gitignore export-ignore
 !Программа AIM презентация с контактами export-ignore
-1.jpg
+1.jpg export-ignore
